@@ -123,3 +123,5 @@ const win=(event)=>{
 board.addEventListener('click',win);
 
 // hw rock paper scissor
+
+// complete code added to github repository
